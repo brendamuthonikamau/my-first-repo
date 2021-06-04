@@ -1,5 +1,8 @@
 # Welcome to this place
 
-Name:
-Hobby:
-Favourite Quote:
+Name:Brenda Kamau
+
+Hobby: *Reading journals and novels*
+
+Favourite Quote:**Follow your own star**
+
